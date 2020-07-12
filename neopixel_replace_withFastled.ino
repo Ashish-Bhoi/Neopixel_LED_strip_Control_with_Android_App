@@ -43,9 +43,9 @@ int ButStat = 0;
 
 CRGB leds[NUM_LEDS];
 
-char auth[] = "_nAYTB9j-9EBGCGijTC_fykYK8NO-pjP";
-char ssid[] = "Bhallas Tower";
-char pass[] = "bhalla123";
+char auth[] = "YOUR AUTH TOKEN";
+char ssid[] = "YOUR WIFI SSID";
+char pass[] = "YOUR WIFI PASSWORD";
 
 CRGBPalette16 gPal;
 
